@@ -1,0 +1,4 @@
+schema: personal-spec-schema
+schema_version: 4
+skip_specs: false
+base_ref: origin/master
