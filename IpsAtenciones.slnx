@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/IpsAtenciones.Application/IpsAtenciones.Application.csproj" />
+    <Project Path="src/IpsAtenciones.Domain/IpsAtenciones.Domain.csproj" />
+    <Project Path="src/IpsAtenciones.Infrastructure/IpsAtenciones.Infrastructure.csproj" />
+    <Project Path="src/IpsAtenciones.WinForms/IpsAtenciones.WinForms.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/IpsAtenciones.UnitTests/IpsAtenciones.UnitTests.csproj" />
+    <Project Path="tests/IpsAtenciones.IntegrationTests/IpsAtenciones.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
